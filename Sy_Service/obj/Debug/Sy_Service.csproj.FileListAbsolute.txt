@@ -1,0 +1,106 @@
+E:\吴国庆个人文件夹\工作日志2019-3-26\服务\Sy_Service\Sy_Service\bin\Debug\Sy_Service.exe.config
+E:\吴国庆个人文件夹\工作日志2019-3-26\服务\Sy_Service\Sy_Service\bin\Debug\Sy_Service.exe
+E:\吴国庆个人文件夹\工作日志2019-3-26\服务\Sy_Service\Sy_Service\bin\Debug\Sy_Service.pdb
+E:\吴国庆个人文件夹\工作日志2019-3-26\服务\Sy_Service\Sy_Service\bin\Debug\log4net.dll
+E:\吴国庆个人文件夹\工作日志2019-3-26\服务\Sy_Service\Sy_Service\bin\Debug\log4net.xml
+E:\吴国庆个人文件夹\工作日志2019-3-26\服务\Sy_Service\Sy_Service\obj\Debug\Sy_Service.csprojAssemblyReference.cache
+E:\吴国庆个人文件夹\工作日志2019-3-26\服务\Sy_Service\Sy_Service\obj\Debug\Sy_Service.ProjectInstaller.resources
+E:\吴国庆个人文件夹\工作日志2019-3-26\服务\Sy_Service\Sy_Service\obj\Debug\Sy_Service.csproj.GenerateResource.cache
+E:\吴国庆个人文件夹\工作日志2019-3-26\服务\Sy_Service\Sy_Service\obj\Debug\Sy_Service.csproj.CoreCompileInputs.cache
+E:\吴国庆个人文件夹\工作日志2019-3-26\服务\Sy_Service\Sy_Service\obj\Debug\Sy_Service.csproj.CopyComplete
+E:\吴国庆个人文件夹\工作日志2019-3-26\服务\Sy_Service\Sy_Service\obj\Debug\Sy_Service.exe
+E:\吴国庆个人文件夹\工作日志2019-3-26\服务\Sy_Service\Sy_Service\obj\Debug\Sy_Service.pdb
+F:\2019-4-9\服务\Sy_Service\Sy_Service\obj\Debug\Sy_Service.ProjectInstaller.resources
+F:\2019-4-9\服务\Sy_Service\Sy_Service\obj\Debug\Sy_Service.csproj.GenerateResource.cache
+F:\2019-4-9\服务\Sy_Service\Sy_Service\obj\Debug\Sy_Service.csproj.CoreCompileInputs.cache
+F:\2019-4-9\服务\Sy_Service\Sy_Service\obj\Debug\Sy_Service.exe
+F:\2019-4-9\服务\Sy_Service\Sy_Service\obj\Debug\Sy_Service.pdb
+F:\2019-4-9\服务\Sy_Service\Sy_Service\bin\Debug\Sy_Service.exe.config
+F:\2019-4-9\服务\Sy_Service\Sy_Service\bin\Debug\Sy_Service.exe
+F:\2019-4-9\服务\Sy_Service\Sy_Service\bin\Debug\Sy_Service.pdb
+F:\2019-4-9\服务\Sy_Service\Sy_Service\bin\Debug\log4net.dll
+F:\2019-4-9\服务\Sy_Service\Sy_Service\bin\Debug\Newtonsoft.Json.dll
+F:\2019-4-9\服务\Sy_Service\Sy_Service\bin\Debug\log4net.xml
+F:\2019-4-9\服务\Sy_Service\Sy_Service\bin\Debug\Newtonsoft.Json.pdb
+F:\2019-4-9\服务\Sy_Service\Sy_Service\bin\Debug\Newtonsoft.Json.xml
+F:\2019-4-9\服务\Sy_Service\Sy_Service\obj\Debug\Sy_Service.csproj.CopyComplete
+F:\2019-4-9\服务\Sy_Service\Sy_Service\obj\Debug\Sy_Service.csprojAssemblyReference.cache
+F:\2019-4-9\服务\Sy_Service\Sy_Service\bin\Debug\SqlSugar.dll
+E:\吴国庆个人文件夹\工作日志 2019-4-10\服务\Sy_Service\Sy_Service\bin\Debug\Sy_Service.exe.config
+E:\吴国庆个人文件夹\工作日志 2019-4-10\服务\Sy_Service\Sy_Service\bin\Debug\Sy_Service.exe
+E:\吴国庆个人文件夹\工作日志 2019-4-10\服务\Sy_Service\Sy_Service\bin\Debug\Sy_Service.pdb
+E:\吴国庆个人文件夹\工作日志 2019-4-10\服务\Sy_Service\Sy_Service\bin\Debug\log4net.dll
+E:\吴国庆个人文件夹\工作日志 2019-4-10\服务\Sy_Service\Sy_Service\bin\Debug\Newtonsoft.Json.dll
+E:\吴国庆个人文件夹\工作日志 2019-4-10\服务\Sy_Service\Sy_Service\bin\Debug\SqlSugar.dll
+E:\吴国庆个人文件夹\工作日志 2019-4-10\服务\Sy_Service\Sy_Service\bin\Debug\log4net.xml
+E:\吴国庆个人文件夹\工作日志 2019-4-10\服务\Sy_Service\Sy_Service\bin\Debug\Newtonsoft.Json.pdb
+E:\吴国庆个人文件夹\工作日志 2019-4-10\服务\Sy_Service\Sy_Service\bin\Debug\Newtonsoft.Json.xml
+E:\吴国庆个人文件夹\工作日志 2019-4-10\服务\Sy_Service\Sy_Service\obj\Debug\Sy_Service.ProjectInstaller.resources
+E:\吴国庆个人文件夹\工作日志 2019-4-10\服务\Sy_Service\Sy_Service\obj\Debug\Sy_Service.csproj.GenerateResource.cache
+E:\吴国庆个人文件夹\工作日志 2019-4-10\服务\Sy_Service\Sy_Service\obj\Debug\Sy_Service.csproj.CoreCompileInputs.cache
+E:\吴国庆个人文件夹\工作日志 2019-4-10\服务\Sy_Service\Sy_Service\obj\Debug\Sy_Service.csproj.CopyComplete
+E:\吴国庆个人文件夹\工作日志 2019-4-10\服务\Sy_Service\Sy_Service\obj\Debug\Sy_Service.exe
+E:\吴国庆个人文件夹\工作日志 2019-4-10\服务\Sy_Service\Sy_Service\obj\Debug\Sy_Service.pdb
+E:\吴国庆个人文件夹\工作日志 2019-4-10\服务\Sy_Service\Sy_Service\obj\Debug\Sy_Service.csprojAssemblyReference.cache
+E:\吴国庆个人文件夹\工作日志 2019-4-11\服务\Sy_Service\Sy_Service\bin\Debug\Sy_Service.exe.config
+E:\吴国庆个人文件夹\工作日志 2019-4-11\服务\Sy_Service\Sy_Service\bin\Debug\Sy_Service.exe
+E:\吴国庆个人文件夹\工作日志 2019-4-11\服务\Sy_Service\Sy_Service\bin\Debug\Sy_Service.pdb
+E:\吴国庆个人文件夹\工作日志 2019-4-11\服务\Sy_Service\Sy_Service\bin\Debug\log4net.dll
+E:\吴国庆个人文件夹\工作日志 2019-4-11\服务\Sy_Service\Sy_Service\bin\Debug\Newtonsoft.Json.dll
+E:\吴国庆个人文件夹\工作日志 2019-4-11\服务\Sy_Service\Sy_Service\bin\Debug\SqlSugar.dll
+E:\吴国庆个人文件夹\工作日志 2019-4-11\服务\Sy_Service\Sy_Service\bin\Debug\log4net.xml
+E:\吴国庆个人文件夹\工作日志 2019-4-11\服务\Sy_Service\Sy_Service\bin\Debug\Newtonsoft.Json.pdb
+E:\吴国庆个人文件夹\工作日志 2019-4-11\服务\Sy_Service\Sy_Service\bin\Debug\Newtonsoft.Json.xml
+E:\吴国庆个人文件夹\工作日志 2019-4-11\服务\Sy_Service\Sy_Service\obj\Debug\Sy_Service.ProjectInstaller.resources
+E:\吴国庆个人文件夹\工作日志 2019-4-11\服务\Sy_Service\Sy_Service\obj\Debug\Sy_Service.csproj.GenerateResource.cache
+E:\吴国庆个人文件夹\工作日志 2019-4-11\服务\Sy_Service\Sy_Service\obj\Debug\Sy_Service.csproj.CoreCompileInputs.cache
+E:\吴国庆个人文件夹\工作日志 2019-4-11\服务\Sy_Service\Sy_Service\obj\Debug\Sy_Service.csproj.CopyComplete
+E:\吴国庆个人文件夹\工作日志 2019-4-11\服务\Sy_Service\Sy_Service\obj\Debug\Sy_Service.exe
+E:\吴国庆个人文件夹\工作日志 2019-4-11\服务\Sy_Service\Sy_Service\obj\Debug\Sy_Service.pdb
+E:\吴国庆个人文件夹\数据墙综合\衡东数据墙三个分馆与呼市数据墙第三版\服务\Sy_Service\Sy_Service\bin\Debug\Sy_Service.exe.config
+E:\吴国庆个人文件夹\数据墙综合\衡东数据墙三个分馆与呼市数据墙第三版\服务\Sy_Service\Sy_Service\bin\Debug\Sy_Service.exe
+E:\吴国庆个人文件夹\数据墙综合\衡东数据墙三个分馆与呼市数据墙第三版\服务\Sy_Service\Sy_Service\bin\Debug\Sy_Service.pdb
+E:\吴国庆个人文件夹\数据墙综合\衡东数据墙三个分馆与呼市数据墙第三版\服务\Sy_Service\Sy_Service\bin\Debug\log4net.dll
+E:\吴国庆个人文件夹\数据墙综合\衡东数据墙三个分馆与呼市数据墙第三版\服务\Sy_Service\Sy_Service\bin\Debug\Newtonsoft.Json.dll
+E:\吴国庆个人文件夹\数据墙综合\衡东数据墙三个分馆与呼市数据墙第三版\服务\Sy_Service\Sy_Service\bin\Debug\SqlSugar.dll
+E:\吴国庆个人文件夹\数据墙综合\衡东数据墙三个分馆与呼市数据墙第三版\服务\Sy_Service\Sy_Service\bin\Debug\log4net.xml
+E:\吴国庆个人文件夹\数据墙综合\衡东数据墙三个分馆与呼市数据墙第三版\服务\Sy_Service\Sy_Service\bin\Debug\Newtonsoft.Json.pdb
+E:\吴国庆个人文件夹\数据墙综合\衡东数据墙三个分馆与呼市数据墙第三版\服务\Sy_Service\Sy_Service\bin\Debug\Newtonsoft.Json.xml
+E:\吴国庆个人文件夹\数据墙综合\衡东数据墙三个分馆与呼市数据墙第三版\服务\Sy_Service\Sy_Service\obj\Debug\Sy_Service.ProjectInstaller.resources
+E:\吴国庆个人文件夹\数据墙综合\衡东数据墙三个分馆与呼市数据墙第三版\服务\Sy_Service\Sy_Service\obj\Debug\Sy_Service.csproj.GenerateResource.cache
+E:\吴国庆个人文件夹\数据墙综合\衡东数据墙三个分馆与呼市数据墙第三版\服务\Sy_Service\Sy_Service\obj\Debug\Sy_Service.csproj.CoreCompileInputs.cache
+E:\吴国庆个人文件夹\数据墙综合\衡东数据墙三个分馆与呼市数据墙第三版\服务\Sy_Service\Sy_Service\obj\Debug\Sy_Service.csproj.CopyComplete
+E:\吴国庆个人文件夹\数据墙综合\衡东数据墙三个分馆与呼市数据墙第三版\服务\Sy_Service\Sy_Service\obj\Debug\Sy_Service.exe
+E:\吴国庆个人文件夹\数据墙综合\衡东数据墙三个分馆与呼市数据墙第三版\服务\Sy_Service\Sy_Service\obj\Debug\Sy_Service.pdb
+F:\Sy_Service\Sy_Service\bin\Debug\Sy_Service.exe.config
+F:\Sy_Service\Sy_Service\bin\Debug\Sy_Service.exe
+F:\Sy_Service\Sy_Service\bin\Debug\Sy_Service.pdb
+F:\Sy_Service\Sy_Service\bin\Debug\log4net.dll
+F:\Sy_Service\Sy_Service\bin\Debug\Newtonsoft.Json.dll
+F:\Sy_Service\Sy_Service\bin\Debug\SqlSugar.dll
+F:\Sy_Service\Sy_Service\bin\Debug\log4net.xml
+F:\Sy_Service\Sy_Service\bin\Debug\Newtonsoft.Json.pdb
+F:\Sy_Service\Sy_Service\bin\Debug\Newtonsoft.Json.xml
+F:\Sy_Service\Sy_Service\obj\Debug\Sy_Service.ProjectInstaller.resources
+F:\Sy_Service\Sy_Service\obj\Debug\Sy_Service.csproj.GenerateResource.cache
+F:\Sy_Service\Sy_Service\obj\Debug\Sy_Service.csproj.CoreCompileInputs.cache
+F:\Sy_Service\Sy_Service\obj\Debug\Sy_Service.csproj.CopyComplete
+F:\Sy_Service\Sy_Service\obj\Debug\Sy_Service.exe
+F:\Sy_Service\Sy_Service\obj\Debug\Sy_Service.pdb
+F:\Sy_Service\Sy_Service\obj\Debug\Sy_Service.csprojAssemblyReference.cache
+H:\Sy_Service\Sy_Service\bin\Debug\Sy_Service.exe.config
+H:\Sy_Service\Sy_Service\bin\Debug\Sy_Service.exe
+H:\Sy_Service\Sy_Service\bin\Debug\Sy_Service.pdb
+H:\Sy_Service\Sy_Service\bin\Debug\log4net.dll
+H:\Sy_Service\Sy_Service\bin\Debug\Newtonsoft.Json.dll
+H:\Sy_Service\Sy_Service\bin\Debug\SqlSugar.dll
+H:\Sy_Service\Sy_Service\bin\Debug\log4net.xml
+H:\Sy_Service\Sy_Service\bin\Debug\Newtonsoft.Json.pdb
+H:\Sy_Service\Sy_Service\bin\Debug\Newtonsoft.Json.xml
+H:\Sy_Service\Sy_Service\obj\Debug\Sy_Service.csprojAssemblyReference.cache
+H:\Sy_Service\Sy_Service\obj\Debug\Sy_Service.ProjectInstaller.resources
+H:\Sy_Service\Sy_Service\obj\Debug\Sy_Service.csproj.GenerateResource.cache
+H:\Sy_Service\Sy_Service\obj\Debug\Sy_Service.csproj.CoreCompileInputs.cache
+H:\Sy_Service\Sy_Service\obj\Debug\Sy_Service.csproj.CopyComplete
+H:\Sy_Service\Sy_Service\obj\Debug\Sy_Service.exe
+H:\Sy_Service\Sy_Service\obj\Debug\Sy_Service.pdb

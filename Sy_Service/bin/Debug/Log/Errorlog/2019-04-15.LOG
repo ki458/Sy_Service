@@ -1,0 +1,208 @@
+﻿时间:2019-04-15 08:41:03,453日志内容:错误原因：无法连接到远程服务器错误位置：   在 System.Net.HttpWebRequest.GetResponse()
+   在 Sy_Service.Service1.GetValue(String url) 位置 E:\吴国庆个人文件夹\工作日志 2019-4-11\服务\Sy_Service\Sy_Service\Service1.cs:行号 127
+   在 Sy_Service.Service1.TimedEventBorrow(Object sender, ElapsedEventArgs e) 位置 E:\吴国庆个人文件夹\工作日志 2019-4-11\服务\Sy_Service\Sy_Service\Service1.cs:行号 43
+-----------------------------------------
+
+ 时间:2019-04-15 08:41:08,333日志内容:错误原因：无法连接到远程服务器错误位置：   在 System.Net.HttpWebRequest.GetResponse()
+   在 Sy_Service.Service1.GetValue(String url) 位置 E:\吴国庆个人文件夹\工作日志 2019-4-11\服务\Sy_Service\Sy_Service\Service1.cs:行号 127
+   在 Sy_Service.Service1.TimedEventBorrow(Object sender, ElapsedEventArgs e) 位置 E:\吴国庆个人文件夹\工作日志 2019-4-11\服务\Sy_Service\Sy_Service\Service1.cs:行号 43
+-----------------------------------------
+
+ 时间:2019-04-15 08:41:13,334日志内容:错误原因：无法连接到远程服务器错误位置：   在 System.Net.HttpWebRequest.GetResponse()
+   在 Sy_Service.Service1.GetValue(String url) 位置 E:\吴国庆个人文件夹\工作日志 2019-4-11\服务\Sy_Service\Sy_Service\Service1.cs:行号 127
+   在 Sy_Service.Service1.TimedEventBorrow(Object sender, ElapsedEventArgs e) 位置 E:\吴国庆个人文件夹\工作日志 2019-4-11\服务\Sy_Service\Sy_Service\Service1.cs:行号 43
+-----------------------------------------
+
+ 时间:2019-04-15 08:41:18,989日志内容:错误原因：未将对象引用设置到对象的实例。错误位置：   在 Sy_Service.Service1.TimedEventBorrow(Object sender, ElapsedEventArgs e) 位置 E:\吴国庆个人文件夹\工作日志 2019-4-11\服务\Sy_Service\Sy_Service\Service1.cs:行号 55
+-----------------------------------------
+
+ 时间:2019-04-15 08:41:23,967日志内容:错误原因：未将对象引用设置到对象的实例。错误位置：   在 Sy_Service.Service1.TimedEventBorrow(Object sender, ElapsedEventArgs e) 位置 E:\吴国庆个人文件夹\工作日志 2019-4-11\服务\Sy_Service\Sy_Service\Service1.cs:行号 55
+-----------------------------------------
+
+ 时间:2019-04-15 08:41:28,989日志内容:错误原因：未将对象引用设置到对象的实例。错误位置：   在 Sy_Service.Service1.TimedEventBorrow(Object sender, ElapsedEventArgs e) 位置 E:\吴国庆个人文件夹\工作日志 2019-4-11\服务\Sy_Service\Sy_Service\Service1.cs:行号 55
+-----------------------------------------
+
+ 时间:2019-04-15 08:41:33,995日志内容:错误原因：未将对象引用设置到对象的实例。错误位置：   在 Sy_Service.Service1.TimedEventBorrow(Object sender, ElapsedEventArgs e) 位置 E:\吴国庆个人文件夹\工作日志 2019-4-11\服务\Sy_Service\Sy_Service\Service1.cs:行号 55
+-----------------------------------------
+
+ 时间:2019-04-15 08:41:39,030日志内容:错误原因：未将对象引用设置到对象的实例。错误位置：   在 Sy_Service.Service1.TimedEventBorrow(Object sender, ElapsedEventArgs e) 位置 E:\吴国庆个人文件夹\工作日志 2019-4-11\服务\Sy_Service\Sy_Service\Service1.cs:行号 55
+-----------------------------------------
+
+ 时间:2019-04-15 08:41:44,012日志内容:错误原因：未将对象引用设置到对象的实例。错误位置：   在 Sy_Service.Service1.TimedEventBorrow(Object sender, ElapsedEventArgs e) 位置 E:\吴国庆个人文件夹\工作日志 2019-4-11\服务\Sy_Service\Sy_Service\Service1.cs:行号 55
+-----------------------------------------
+
+ 时间:2019-04-15 08:41:49,057日志内容:错误原因：未将对象引用设置到对象的实例。错误位置：   在 Sy_Service.Service1.TimedEventBorrow(Object sender, ElapsedEventArgs e) 位置 E:\吴国庆个人文件夹\工作日志 2019-4-11\服务\Sy_Service\Sy_Service\Service1.cs:行号 55
+-----------------------------------------
+
+ 时间:2019-04-15 08:41:54,023日志内容:错误原因：未将对象引用设置到对象的实例。错误位置：   在 Sy_Service.Service1.TimedEventBorrow(Object sender, ElapsedEventArgs e) 位置 E:\吴国庆个人文件夹\工作日志 2019-4-11\服务\Sy_Service\Sy_Service\Service1.cs:行号 55
+-----------------------------------------
+
+ 时间:2019-04-15 08:41:59,041日志内容:错误原因：未将对象引用设置到对象的实例。错误位置：   在 Sy_Service.Service1.TimedEventBorrow(Object sender, ElapsedEventArgs e) 位置 E:\吴国庆个人文件夹\工作日志 2019-4-11\服务\Sy_Service\Sy_Service\Service1.cs:行号 55
+-----------------------------------------
+
+ 时间:2019-04-15 08:42:04,067日志内容:错误原因：未将对象引用设置到对象的实例。错误位置：   在 Sy_Service.Service1.TimedEventBorrow(Object sender, ElapsedEventArgs e) 位置 E:\吴国庆个人文件夹\工作日志 2019-4-11\服务\Sy_Service\Sy_Service\Service1.cs:行号 55
+-----------------------------------------
+
+ 时间:2019-04-15 08:42:08,981日志内容:错误原因：未将对象引用设置到对象的实例。错误位置：   在 Sy_Service.Service1.TimedEventBorrow(Object sender, ElapsedEventArgs e) 位置 E:\吴国庆个人文件夹\工作日志 2019-4-11\服务\Sy_Service\Sy_Service\Service1.cs:行号 55
+-----------------------------------------
+
+ 时间:2019-04-15 08:42:14,060日志内容:错误原因：未将对象引用设置到对象的实例。错误位置：   在 Sy_Service.Service1.TimedEventBorrow(Object sender, ElapsedEventArgs e) 位置 E:\吴国庆个人文件夹\工作日志 2019-4-11\服务\Sy_Service\Sy_Service\Service1.cs:行号 55
+-----------------------------------------
+
+ 时间:2019-04-15 08:42:19,089日志内容:错误原因：未将对象引用设置到对象的实例。错误位置：   在 Sy_Service.Service1.TimedEventBorrow(Object sender, ElapsedEventArgs e) 位置 E:\吴国庆个人文件夹\工作日志 2019-4-11\服务\Sy_Service\Sy_Service\Service1.cs:行号 55
+-----------------------------------------
+
+ 时间:2019-04-15 08:42:24,048日志内容:错误原因：未将对象引用设置到对象的实例。错误位置：   在 Sy_Service.Service1.TimedEventBorrow(Object sender, ElapsedEventArgs e) 位置 E:\吴国庆个人文件夹\工作日志 2019-4-11\服务\Sy_Service\Sy_Service\Service1.cs:行号 55
+-----------------------------------------
+
+ 时间:2019-04-15 08:42:29,059日志内容:错误原因：未将对象引用设置到对象的实例。错误位置：   在 Sy_Service.Service1.TimedEventBorrow(Object sender, ElapsedEventArgs e) 位置 E:\吴国庆个人文件夹\工作日志 2019-4-11\服务\Sy_Service\Sy_Service\Service1.cs:行号 55
+-----------------------------------------
+
+ 时间:2019-04-15 08:42:34,152日志内容:错误原因：未将对象引用设置到对象的实例。错误位置：   在 Sy_Service.Service1.TimedEventBorrow(Object sender, ElapsedEventArgs e) 位置 E:\吴国庆个人文件夹\工作日志 2019-4-11\服务\Sy_Service\Sy_Service\Service1.cs:行号 55
+-----------------------------------------
+
+ 时间:2019-04-15 08:42:39,062日志内容:错误原因：未将对象引用设置到对象的实例。错误位置：   在 Sy_Service.Service1.TimedEventBorrow(Object sender, ElapsedEventArgs e) 位置 E:\吴国庆个人文件夹\工作日志 2019-4-11\服务\Sy_Service\Sy_Service\Service1.cs:行号 55
+-----------------------------------------
+
+ 时间:2019-04-15 08:42:44,093日志内容:错误原因：未将对象引用设置到对象的实例。错误位置：   在 Sy_Service.Service1.TimedEventBorrow(Object sender, ElapsedEventArgs e) 位置 E:\吴国庆个人文件夹\工作日志 2019-4-11\服务\Sy_Service\Sy_Service\Service1.cs:行号 55
+-----------------------------------------
+
+ 时间:2019-04-15 08:42:49,132日志内容:错误原因：未将对象引用设置到对象的实例。错误位置：   在 Sy_Service.Service1.TimedEventBorrow(Object sender, ElapsedEventArgs e) 位置 E:\吴国庆个人文件夹\工作日志 2019-4-11\服务\Sy_Service\Sy_Service\Service1.cs:行号 55
+-----------------------------------------
+
+ 时间:2019-04-15 08:42:54,078日志内容:错误原因：未将对象引用设置到对象的实例。错误位置：   在 Sy_Service.Service1.TimedEventBorrow(Object sender, ElapsedEventArgs e) 位置 E:\吴国庆个人文件夹\工作日志 2019-4-11\服务\Sy_Service\Sy_Service\Service1.cs:行号 55
+-----------------------------------------
+
+ 时间:2019-04-15 08:42:59,121日志内容:错误原因：未将对象引用设置到对象的实例。错误位置：   在 Sy_Service.Service1.TimedEventBorrow(Object sender, ElapsedEventArgs e) 位置 E:\吴国庆个人文件夹\工作日志 2019-4-11\服务\Sy_Service\Sy_Service\Service1.cs:行号 55
+-----------------------------------------
+
+ 时间:2019-04-15 08:43:04,129日志内容:错误原因：未将对象引用设置到对象的实例。错误位置：   在 Sy_Service.Service1.TimedEventBorrow(Object sender, ElapsedEventArgs e) 位置 E:\吴国庆个人文件夹\工作日志 2019-4-11\服务\Sy_Service\Sy_Service\Service1.cs:行号 55
+-----------------------------------------
+
+ 时间:2019-04-15 08:43:09,150日志内容:错误原因：未将对象引用设置到对象的实例。错误位置：   在 Sy_Service.Service1.TimedEventBorrow(Object sender, ElapsedEventArgs e) 位置 E:\吴国庆个人文件夹\工作日志 2019-4-11\服务\Sy_Service\Sy_Service\Service1.cs:行号 55
+-----------------------------------------
+
+ 时间:2019-04-15 08:43:14,163日志内容:错误原因：未将对象引用设置到对象的实例。错误位置：   在 Sy_Service.Service1.TimedEventBorrow(Object sender, ElapsedEventArgs e) 位置 E:\吴国庆个人文件夹\工作日志 2019-4-11\服务\Sy_Service\Sy_Service\Service1.cs:行号 55
+-----------------------------------------
+
+ 时间:2019-04-15 08:43:19,203日志内容:错误原因：未将对象引用设置到对象的实例。错误位置：   在 Sy_Service.Service1.TimedEventBorrow(Object sender, ElapsedEventArgs e) 位置 E:\吴国庆个人文件夹\工作日志 2019-4-11\服务\Sy_Service\Sy_Service\Service1.cs:行号 55
+-----------------------------------------
+
+ 时间:2019-04-15 08:43:24,154日志内容:错误原因：未将对象引用设置到对象的实例。错误位置：   在 Sy_Service.Service1.TimedEventBorrow(Object sender, ElapsedEventArgs e) 位置 E:\吴国庆个人文件夹\工作日志 2019-4-11\服务\Sy_Service\Sy_Service\Service1.cs:行号 55
+-----------------------------------------
+
+ 时间:2019-04-15 08:43:29,196日志内容:错误原因：未将对象引用设置到对象的实例。错误位置：   在 Sy_Service.Service1.TimedEventBorrow(Object sender, ElapsedEventArgs e) 位置 E:\吴国庆个人文件夹\工作日志 2019-4-11\服务\Sy_Service\Sy_Service\Service1.cs:行号 55
+-----------------------------------------
+
+ 时间:2019-04-15 08:43:34,198日志内容:错误原因：未将对象引用设置到对象的实例。错误位置：   在 Sy_Service.Service1.TimedEventBorrow(Object sender, ElapsedEventArgs e) 位置 E:\吴国庆个人文件夹\工作日志 2019-4-11\服务\Sy_Service\Sy_Service\Service1.cs:行号 55
+-----------------------------------------
+
+ 时间:2019-04-15 08:43:39,148日志内容:错误原因：未将对象引用设置到对象的实例。错误位置：   在 Sy_Service.Service1.TimedEventBorrow(Object sender, ElapsedEventArgs e) 位置 E:\吴国庆个人文件夹\工作日志 2019-4-11\服务\Sy_Service\Sy_Service\Service1.cs:行号 55
+-----------------------------------------
+
+ 时间:2019-04-15 08:43:44,228日志内容:错误原因：未将对象引用设置到对象的实例。错误位置：   在 Sy_Service.Service1.TimedEventBorrow(Object sender, ElapsedEventArgs e) 位置 E:\吴国庆个人文件夹\工作日志 2019-4-11\服务\Sy_Service\Sy_Service\Service1.cs:行号 55
+-----------------------------------------
+
+ 时间:2019-04-15 08:43:49,209日志内容:错误原因：未将对象引用设置到对象的实例。错误位置：   在 Sy_Service.Service1.TimedEventBorrow(Object sender, ElapsedEventArgs e) 位置 E:\吴国庆个人文件夹\工作日志 2019-4-11\服务\Sy_Service\Sy_Service\Service1.cs:行号 55
+-----------------------------------------
+
+ 时间:2019-04-15 08:43:54,153日志内容:错误原因：未将对象引用设置到对象的实例。错误位置：   在 Sy_Service.Service1.TimedEventBorrow(Object sender, ElapsedEventArgs e) 位置 E:\吴国庆个人文件夹\工作日志 2019-4-11\服务\Sy_Service\Sy_Service\Service1.cs:行号 55
+-----------------------------------------
+
+ 时间:2019-04-15 08:43:59,226日志内容:错误原因：未将对象引用设置到对象的实例。错误位置：   在 Sy_Service.Service1.TimedEventBorrow(Object sender, ElapsedEventArgs e) 位置 E:\吴国庆个人文件夹\工作日志 2019-4-11\服务\Sy_Service\Sy_Service\Service1.cs:行号 55
+-----------------------------------------
+
+ 时间:2019-04-15 08:44:04,161日志内容:错误原因：未将对象引用设置到对象的实例。错误位置：   在 Sy_Service.Service1.TimedEventBorrow(Object sender, ElapsedEventArgs e) 位置 E:\吴国庆个人文件夹\工作日志 2019-4-11\服务\Sy_Service\Sy_Service\Service1.cs:行号 55
+-----------------------------------------
+
+ 时间:2019-04-15 08:44:09,211日志内容:错误原因：未将对象引用设置到对象的实例。错误位置：   在 Sy_Service.Service1.TimedEventBorrow(Object sender, ElapsedEventArgs e) 位置 E:\吴国庆个人文件夹\工作日志 2019-4-11\服务\Sy_Service\Sy_Service\Service1.cs:行号 55
+-----------------------------------------
+
+ 时间:2019-04-15 08:44:14,237日志内容:错误原因：未将对象引用设置到对象的实例。错误位置：   在 Sy_Service.Service1.TimedEventBorrow(Object sender, ElapsedEventArgs e) 位置 E:\吴国庆个人文件夹\工作日志 2019-4-11\服务\Sy_Service\Sy_Service\Service1.cs:行号 55
+-----------------------------------------
+
+ 时间:2019-04-15 08:44:19,252日志内容:错误原因：未将对象引用设置到对象的实例。错误位置：   在 Sy_Service.Service1.TimedEventBorrow(Object sender, ElapsedEventArgs e) 位置 E:\吴国庆个人文件夹\工作日志 2019-4-11\服务\Sy_Service\Sy_Service\Service1.cs:行号 55
+-----------------------------------------
+
+ 时间:2019-04-15 08:44:24,212日志内容:错误原因：未将对象引用设置到对象的实例。错误位置：   在 Sy_Service.Service1.TimedEventBorrow(Object sender, ElapsedEventArgs e) 位置 E:\吴国庆个人文件夹\工作日志 2019-4-11\服务\Sy_Service\Sy_Service\Service1.cs:行号 55
+-----------------------------------------
+
+ 时间:2019-04-15 08:44:29,251日志内容:错误原因：未将对象引用设置到对象的实例。错误位置：   在 Sy_Service.Service1.TimedEventBorrow(Object sender, ElapsedEventArgs e) 位置 E:\吴国庆个人文件夹\工作日志 2019-4-11\服务\Sy_Service\Sy_Service\Service1.cs:行号 55
+-----------------------------------------
+
+ 时间:2019-04-15 08:44:34,285日志内容:错误原因：未将对象引用设置到对象的实例。错误位置：   在 Sy_Service.Service1.TimedEventBorrow(Object sender, ElapsedEventArgs e) 位置 E:\吴国庆个人文件夹\工作日志 2019-4-11\服务\Sy_Service\Sy_Service\Service1.cs:行号 55
+-----------------------------------------
+
+ 时间:2019-04-15 08:44:39,224日志内容:错误原因：未将对象引用设置到对象的实例。错误位置：   在 Sy_Service.Service1.TimedEventBorrow(Object sender, ElapsedEventArgs e) 位置 E:\吴国庆个人文件夹\工作日志 2019-4-11\服务\Sy_Service\Sy_Service\Service1.cs:行号 55
+-----------------------------------------
+
+ 时间:2019-04-15 08:44:44,324日志内容:错误原因：未将对象引用设置到对象的实例。错误位置：   在 Sy_Service.Service1.TimedEventBorrow(Object sender, ElapsedEventArgs e) 位置 E:\吴国庆个人文件夹\工作日志 2019-4-11\服务\Sy_Service\Sy_Service\Service1.cs:行号 55
+-----------------------------------------
+
+ 时间:2019-04-15 08:44:49,285日志内容:错误原因：未将对象引用设置到对象的实例。错误位置：   在 Sy_Service.Service1.TimedEventBorrow(Object sender, ElapsedEventArgs e) 位置 E:\吴国庆个人文件夹\工作日志 2019-4-11\服务\Sy_Service\Sy_Service\Service1.cs:行号 55
+-----------------------------------------
+
+ 时间:2019-04-15 08:44:54,291日志内容:错误原因：未将对象引用设置到对象的实例。错误位置：   在 Sy_Service.Service1.TimedEventBorrow(Object sender, ElapsedEventArgs e) 位置 E:\吴国庆个人文件夹\工作日志 2019-4-11\服务\Sy_Service\Sy_Service\Service1.cs:行号 55
+-----------------------------------------
+
+ 时间:2019-04-15 08:44:59,302日志内容:错误原因：未将对象引用设置到对象的实例。错误位置：   在 Sy_Service.Service1.TimedEventBorrow(Object sender, ElapsedEventArgs e) 位置 E:\吴国庆个人文件夹\工作日志 2019-4-11\服务\Sy_Service\Sy_Service\Service1.cs:行号 55
+-----------------------------------------
+
+ 时间:2019-04-15 08:45:04,316日志内容:错误原因：未将对象引用设置到对象的实例。错误位置：   在 Sy_Service.Service1.TimedEventBorrow(Object sender, ElapsedEventArgs e) 位置 E:\吴国庆个人文件夹\工作日志 2019-4-11\服务\Sy_Service\Sy_Service\Service1.cs:行号 55
+-----------------------------------------
+
+ 时间:2019-04-15 08:45:09,341日志内容:错误原因：未将对象引用设置到对象的实例。错误位置：   在 Sy_Service.Service1.TimedEventBorrow(Object sender, ElapsedEventArgs e) 位置 E:\吴国庆个人文件夹\工作日志 2019-4-11\服务\Sy_Service\Sy_Service\Service1.cs:行号 55
+-----------------------------------------
+
+ 时间:2019-04-15 08:45:14,370日志内容:错误原因：未将对象引用设置到对象的实例。错误位置：   在 Sy_Service.Service1.TimedEventBorrow(Object sender, ElapsedEventArgs e) 位置 E:\吴国庆个人文件夹\工作日志 2019-4-11\服务\Sy_Service\Sy_Service\Service1.cs:行号 55
+-----------------------------------------
+
+ 时间:2019-04-15 08:45:19,367日志内容:错误原因：未将对象引用设置到对象的实例。错误位置：   在 Sy_Service.Service1.TimedEventBorrow(Object sender, ElapsedEventArgs e) 位置 E:\吴国庆个人文件夹\工作日志 2019-4-11\服务\Sy_Service\Sy_Service\Service1.cs:行号 55
+-----------------------------------------
+
+ 时间:2019-04-15 08:45:24,361日志内容:错误原因：未将对象引用设置到对象的实例。错误位置：   在 Sy_Service.Service1.TimedEventBorrow(Object sender, ElapsedEventArgs e) 位置 E:\吴国庆个人文件夹\工作日志 2019-4-11\服务\Sy_Service\Sy_Service\Service1.cs:行号 55
+-----------------------------------------
+
+ 时间:2019-04-15 08:45:29,657日志内容:错误原因：未将对象引用设置到对象的实例。错误位置：   在 Sy_Service.Service1.TimedEventBorrow(Object sender, ElapsedEventArgs e) 位置 E:\吴国庆个人文件夹\工作日志 2019-4-11\服务\Sy_Service\Sy_Service\Service1.cs:行号 55
+-----------------------------------------
+
+ 时间:2019-04-15 08:45:34,382日志内容:错误原因：未将对象引用设置到对象的实例。错误位置：   在 Sy_Service.Service1.TimedEventBorrow(Object sender, ElapsedEventArgs e) 位置 E:\吴国庆个人文件夹\工作日志 2019-4-11\服务\Sy_Service\Sy_Service\Service1.cs:行号 55
+-----------------------------------------
+
+ 时间:2019-04-15 08:45:39,395日志内容:错误原因：未将对象引用设置到对象的实例。错误位置：   在 Sy_Service.Service1.TimedEventBorrow(Object sender, ElapsedEventArgs e) 位置 E:\吴国庆个人文件夹\工作日志 2019-4-11\服务\Sy_Service\Sy_Service\Service1.cs:行号 55
+-----------------------------------------
+
+ 时间:2019-04-15 08:45:44,373日志内容:错误原因：未将对象引用设置到对象的实例。错误位置：   在 Sy_Service.Service1.TimedEventBorrow(Object sender, ElapsedEventArgs e) 位置 E:\吴国庆个人文件夹\工作日志 2019-4-11\服务\Sy_Service\Sy_Service\Service1.cs:行号 55
+-----------------------------------------
+
+ 时间:2019-04-15 08:45:49,358日志内容:错误原因：未将对象引用设置到对象的实例。错误位置：   在 Sy_Service.Service1.TimedEventBorrow(Object sender, ElapsedEventArgs e) 位置 E:\吴国庆个人文件夹\工作日志 2019-4-11\服务\Sy_Service\Sy_Service\Service1.cs:行号 55
+-----------------------------------------
+
+ 时间:2019-04-15 08:45:54,445日志内容:错误原因：未将对象引用设置到对象的实例。错误位置：   在 Sy_Service.Service1.TimedEventBorrow(Object sender, ElapsedEventArgs e) 位置 E:\吴国庆个人文件夹\工作日志 2019-4-11\服务\Sy_Service\Sy_Service\Service1.cs:行号 55
+-----------------------------------------
+
+ 时间:2019-04-15 08:45:59,382日志内容:错误原因：未将对象引用设置到对象的实例。错误位置：   在 Sy_Service.Service1.TimedEventBorrow(Object sender, ElapsedEventArgs e) 位置 E:\吴国庆个人文件夹\工作日志 2019-4-11\服务\Sy_Service\Sy_Service\Service1.cs:行号 55
+-----------------------------------------
+
+ 时间:2019-04-15 08:46:04,425日志内容:错误原因：未将对象引用设置到对象的实例。错误位置：   在 Sy_Service.Service1.TimedEventBorrow(Object sender, ElapsedEventArgs e) 位置 E:\吴国庆个人文件夹\工作日志 2019-4-11\服务\Sy_Service\Sy_Service\Service1.cs:行号 55
+-----------------------------------------
+
+ 时间:2019-04-15 08:46:09,428日志内容:错误原因：未将对象引用设置到对象的实例。错误位置：   在 Sy_Service.Service1.TimedEventBorrow(Object sender, ElapsedEventArgs e) 位置 E:\吴国庆个人文件夹\工作日志 2019-4-11\服务\Sy_Service\Sy_Service\Service1.cs:行号 55
+-----------------------------------------
+
+ 时间:2019-04-15 08:46:14,429日志内容:错误原因：未将对象引用设置到对象的实例。错误位置：   在 Sy_Service.Service1.TimedEventBorrow(Object sender, ElapsedEventArgs e) 位置 E:\吴国庆个人文件夹\工作日志 2019-4-11\服务\Sy_Service\Sy_Service\Service1.cs:行号 55
+-----------------------------------------
+
+ 时间:2019-04-15 08:46:19,463日志内容:错误原因：未将对象引用设置到对象的实例。错误位置：   在 Sy_Service.Service1.TimedEventBorrow(Object sender, ElapsedEventArgs e) 位置 E:\吴国庆个人文件夹\工作日志 2019-4-11\服务\Sy_Service\Sy_Service\Service1.cs:行号 55
+-----------------------------------------
+
+ 时间:2019-04-15 08:46:24,487日志内容:错误原因：未将对象引用设置到对象的实例。错误位置：   在 Sy_Service.Service1.TimedEventBorrow(Object sender, ElapsedEventArgs e) 位置 E:\吴国庆个人文件夹\工作日志 2019-4-11\服务\Sy_Service\Sy_Service\Service1.cs:行号 55
+-----------------------------------------
+
+ 时间:2019-04-15 08:46:29,392日志内容:错误原因：未将对象引用设置到对象的实例。错误位置：   在 Sy_Service.Service1.TimedEventBorrow(Object sender, ElapsedEventArgs e) 位置 E:\吴国庆个人文件夹\工作日志 2019-4-11\服务\Sy_Service\Sy_Service\Service1.cs:行号 55
+-----------------------------------------
+
+ 时间:2019-04-15 08:46:34,460日志内容:错误原因：未将对象引用设置到对象的实例。错误位置：   在 Sy_Service.Service1.TimedEventBorrow(Object sender, ElapsedEventArgs e) 位置 E:\吴国庆个人文件夹\工作日志 2019-4-11\服务\Sy_Service\Sy_Service\Service1.cs:行号 55
+-----------------------------------------
+
+ 
